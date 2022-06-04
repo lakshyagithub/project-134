@@ -1,1 +1,26 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
 
+.heading:hover {
+    cursor: none;
+}
+
+body {
+    background-size: cover;
+    background-color: rgb(255, 255, 255);
+    /*background-position: center;*/
+}
+
+canvas {
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px grey;
+    margin-top: 150px;
+    background-color: aliceblue;
+}
+
+canvas:hover {
+    cursor: none;
+}
